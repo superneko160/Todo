@@ -1,0 +1,14 @@
+{
+    "name": "Todo",
+    "context": "..",
+    "dockerFile": "../Dockerfile",
+    "forwardPorts": [7878],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rust-lang.rust-analyzer",
+                "tamasfe.even-better-toml"
+            ]
+        }
+    }
+}
