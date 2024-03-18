@@ -2,7 +2,6 @@
     "name": "Todo",
     "context": "..",
     "dockerFile": "../Dockerfile",
-    "forwardPorts": [7878],
     "customizations": {
         "vscode": {
             "extensions": [
