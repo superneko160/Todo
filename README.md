@@ -5,7 +5,6 @@ Todo List with actix-web.
 ## Run
 
 ```bash
-cd src
 cargo run
 ```
 
